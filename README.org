@@ -1,0 +1,9 @@
+* consfigurator
+
+Lisp declarative configuration management system.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/spwhitton/consfigurator.git |
+| commit  | a22c6f5                                              |
+| systems | consfigurator                                        |
+|---------+------------------------------------------------------|
