@@ -4,7 +4,7 @@ Lisp declarative configuration management system.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/spwhitton/consfigurator.git |
-| commit  | 53083f5                                            |
+| commit  | 0000000                                            |
 | systems | consfigurator                                      |
 |---------+----------------------------------------------------|
 ------|
